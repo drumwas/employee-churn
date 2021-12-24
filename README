@@ -1,0 +1,1 @@
+this repo contains employee churn data and methods in R using survival analysis, the ranger library was employed to impliment a survival tree model.
